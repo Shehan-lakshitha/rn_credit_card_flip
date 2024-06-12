@@ -2,7 +2,12 @@
   "expo": {
     "name": "rn_credit_card_flip",
     "slug": "rn_credit_card_flip",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "82f59014-34c0-48e3-a429-0eab3717d35a"
+      }
+    }
   },
   "name": "rn_credit_card_flip"
 }
