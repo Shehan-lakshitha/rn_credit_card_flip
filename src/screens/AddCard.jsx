@@ -7,8 +7,9 @@ import {
   TextInput,
   Image,
   ImageBackground,
+  Button,
 } from 'react-native';
-import COLORS from '../constants/colors.js';
+import COLORS from '../constants/colors';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import Animated, {
   interpolate,
@@ -16,7 +17,6 @@ import Animated, {
   useSharedValue,
   withTiming,
 } from 'react-native-reanimated';
-// import Button from '../components/Button';
 import visa from '../assets/Visa_Logo.png';
 import masterCard from '../assets/MasterCard.png';
 import cardFront from '../assets/cardFront.png';
@@ -29,7 +29,6 @@ const AddCard = () => {
   const [expiryDate, setExpiryDate] = useState('');
   const [cvv, setCvv] = useState('');
   const [cardType, setCardType] = useState('');
-
 
   const spin = useSharedValue(0);
 
