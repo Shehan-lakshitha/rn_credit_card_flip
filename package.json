@@ -18,7 +18,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true,
+  "private": false,
   "description": "A react native component to add card details with flip animation",
   "repository": {
     "type": "git",
