@@ -13,10 +13,26 @@
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-native": "0.74.2",
-    "react-native-reanimated": "^3.12.0"
+    "react-native-reanimated": "^3.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "description": "A react native component to add card details with flip animation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shehan-lakshitha/rn_credit_card_flip.git"
+  },
+  "keywords": [
+    "React-native",
+    "npm",
+    "credit_card_flip"
+  ],
+  "author": "Shehan Lakshitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shehan-lakshitha/rn_credit_card_flip/issues"
+  },
+  "homepage": "https://github.com/Shehan-lakshitha/rn_credit_card_flip#readme"
 }

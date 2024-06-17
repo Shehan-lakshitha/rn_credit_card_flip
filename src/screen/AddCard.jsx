@@ -86,7 +86,7 @@ const AddCard = () => {
   };
 
   const handleSubmit = async () => {
-    
+  
     console.log(
       'Card Number: ' + cardNumber,
       '\nCard holders name: ' + holderName,
