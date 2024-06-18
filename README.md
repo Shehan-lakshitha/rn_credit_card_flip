@@ -38,7 +38,7 @@ https://github.com/Shehan-lakshitha/rn_credit_card_flip/assets/90453471/8032440c
 
 
 ## Contributions
-All contributions are kindly welecomed. 
+All contributions are kindly welcomed. 
 
 
 
