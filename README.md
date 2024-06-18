@@ -28,3 +28,19 @@ export default function Example(){
     )
 }
 ```
+
+You can also directly use the code for more dynamic changes and approches.
+
+
+## Demonstrations 
+
+https://github.com/Shehan-lakshitha/rn_credit_card_flip/assets/90453471/8032440c-93ff-4da5-9588-fc085a648762
+
+
+## Contributions
+All contributions are kindly welecomed. 
+
+
+
+
+
